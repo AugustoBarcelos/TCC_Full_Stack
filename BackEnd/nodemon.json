@@ -1,0 +1,7 @@
+{
+  "env":{
+    "DB_USER": "aebo92",
+    "DB_PASSWORD":"123",
+    "DB_NAME":"vueNEST"
+    }
+}
